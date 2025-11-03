@@ -3,8 +3,12 @@ package com.tuempresa.facturacion.modelo;
 import lombok.Getter;
 import lombok.Setter;
 import org.openxava.annotations.DescriptionsList;
+import org.openxava.annotations.Files;
+import org.openxava.annotations.Money;
+import org.openxava.annotations.TextArea;
 
 import javax.persistence.*;
+import java.math.BigDecimal;
 
 @Entity
 @Getter
@@ -20,6 +24,16 @@ public class Producto {
     @ManyToOne(
             fetch= FetchType.LAZY,
             optional=true)
-    @DescriptionsList 
+    @DescriptionsList
     Categoria categoria;
+
+    @Money
+    BigDecimal precio;
+
+    @Files
+    @Column(length=32)
+    String fotos;
+
+    @TextArea 
+    String observaciones;
 }
