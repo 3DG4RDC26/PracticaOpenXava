@@ -34,6 +34,6 @@ public class Producto {
     @Column(length=32)
     String fotos;
 
-    @TextArea 
+    @TextArea
     String observaciones;
 }

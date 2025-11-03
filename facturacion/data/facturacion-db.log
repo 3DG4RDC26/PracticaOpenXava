@@ -1,6 +1,0 @@
-/*C3*/SET SCHEMA PUBLIC
-DISCONNECT
-/*C4*/SET SCHEMA PUBLIC
-alter table Producto add column fotos varchar(32)
-alter table Producto add column observaciones varchar(255)
-alter table Producto add column precio numeric(19,2)

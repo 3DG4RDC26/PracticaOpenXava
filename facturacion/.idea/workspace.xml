@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c3e131-6461-47cb-9715-a70a8ecda04c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/facturacion-db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion-db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion-db.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion-db.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion-db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion-db.script" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion-db.script" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/TuPrimeraEntidad.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
