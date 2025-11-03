@@ -7,7 +7,7 @@ import lombok.*;
 @Getter @Setter
 public class Direccion {
 
-    @Column(length = 30) 
+    @Column(length = 30)
     String viaPublica;
 
     @Column(length = 5)
