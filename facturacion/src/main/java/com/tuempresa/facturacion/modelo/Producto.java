@@ -2,10 +2,9 @@ package com.tuempresa.facturacion.modelo;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.openxava.annotations.DescriptionsList;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 @Getter
@@ -17,4 +16,10 @@ public class Producto {
 
     @Column(length = 50)
     String descripcion;
+
+    @ManyToOne(
+            fetch= FetchType.LAZY,
+            optional=true)
+    @DescriptionsList 
+    Categoria categoria;
 }
