@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c3e131-6461-47cb-9715-a70a8ecda04c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
-    </list>
+    <list default="true" id="88c3e131-6461-47cb-9715-a70a8ecda04c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
